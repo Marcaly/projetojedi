@@ -1,8 +1,12 @@
 package conquista01;
 
-public class Exercicio02 {
-    public static void main (String[] args){
+    /* Criar duas classes relacionadas (mesmo assunto). Ex: Carro e Moto.*/
 
+
+public class Exercicio02 {
+
+    class teclado {}
+    class mouse {}
 
     }
 
