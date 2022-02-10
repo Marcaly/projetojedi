@@ -1,4 +1,3 @@
-                           .idea/
-                           .gitignore
-                           exercicios-projetoijedi.iml
-                           out
+.idea
+out
+exercicios-projetoijedi.iml
