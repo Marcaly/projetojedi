@@ -21,10 +21,6 @@ public class Exercicio05 {
         System.out.printf(" SUM = %d%n MINUS = %d%n MULTIPLICATION = %d%n DIVISION = %d%n REST = %d%n ",
                                                                         sum, minus, multip, div, rest);
 
-
-
-
-
         sc.close();
 
     }
