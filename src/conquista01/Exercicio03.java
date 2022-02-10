@@ -15,5 +15,7 @@ public class Exercicio03 {
         sum =  x+y;
 
         System.out.println("the sum result is: " + sum);
+
+    sc.close();
     }
 }

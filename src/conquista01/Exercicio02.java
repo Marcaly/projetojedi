@@ -5,9 +5,13 @@ package conquista01;
 
 public class Exercicio02 {
 
-    class teclado {}
-    class mouse {}
+    class teclado {
+
+    }
+    class mouse {
 
     }
 
-}
+    }
+
+

@@ -15,7 +15,7 @@ public class Exercicio04 {
         /*int = –2.147.483.648 a 2.147.483.647*/
         long l = -900000000;
         /*long = –9.223.372.036.854.775.808 a .223.372.036.854.775.807*/
-        boolean b = true;
+        boolean boo = true;
         /*boolean = true or false*/
         double d = 654564.4654;
         float f = 131.12f;
