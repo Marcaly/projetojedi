@@ -13,3 +13,11 @@ Comando para fechar a caixa
 comando para salvar credenciais
 
     git config credential.helper 'store'
+
+Criar nova branch 
+
+    git checkout -b name_branch
+
+Deletar uma branch
+
+    git checkout -d name_branch
