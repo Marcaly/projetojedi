@@ -5,6 +5,7 @@ package conquista01;
 
 public class Exercicio02 {
 
+}
     class teclado {
 
     }
@@ -12,6 +13,6 @@ public class Exercicio02 {
 
     }
 
-    }
+
 
 
