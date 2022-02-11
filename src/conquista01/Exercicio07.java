@@ -1,4 +1,7 @@
 package conquista01;
+/*Criar um código que verifica expressões booleanas (verdadeiro ou falso)
+ utilizando operadores de comparação e operadores lógicos.
+ Ex: boolean ativo = true; ativo == true && ativo != false*/
 
 public class Exercicio07 {
     public static void main (String[] args){
