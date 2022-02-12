@@ -4,7 +4,7 @@ package conquista01;
  e atribuir o seu próprio valor somado a ele mesmo utilizando operadores de atribuição direta (+=, -=, *=...)*/
 
 public class Exercicio08 {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
 
         int x = 57;
         x += x;

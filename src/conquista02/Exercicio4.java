@@ -11,11 +11,11 @@ public class Exercicio4 {
 
         if (number == 7) {
             System.out.println("True");
-        }else if (number >= 23) {
+        } else if (number >= 23) {
             System.out.println("True");
-        }else if (number <= 12){
+        } else if (number <= 12) {
             System.out.println("True");
-        }else{
+        } else {
             System.out.println("False");
         }
     }

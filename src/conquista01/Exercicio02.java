@@ -1,17 +1,19 @@
 package conquista01;
 
-    /* Criar duas classes relacionadas (mesmo assunto). Ex: Carro e Moto.*/
+/* Criar duas classes relacionadas (mesmo assunto). Ex: Carro e Moto.*/
 
 
 public class Exercicio02 {
 
 }
-    class teclado {
 
-    }
-    class mouse {
+class teclado {
 
-    }
+}
+
+class mouse {
+
+}
 
 
 

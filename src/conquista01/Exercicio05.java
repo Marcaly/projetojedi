@@ -1,6 +1,6 @@
 package conquista01;
 
-        /*Criar um código que realiza todas as funções aritméticas usando os operadores*/
+/*Criar um código que realiza todas as funções aritméticas usando os operadores*/
 
 import java.util.Scanner;
 
@@ -12,14 +12,14 @@ public class Exercicio05 {
         int x = sc.nextInt();
         int y = sc.nextInt();
 
-        int sum = x+y;
-        int minus =  x-y;
-        int multip = x*y;
-        int div = x/y;
-        int rest = x%y;
+        int sum = x + y;
+        int minus = x - y;
+        int multip = x * y;
+        int div = x / y;
+        int rest = x % y;
 
         System.out.printf(" SUM = %d%n MINUS = %d%n MULTIPLICATION = %d%n DIVISION = %d%n REST = %d%n ",
-                                                                        sum, minus, multip, div, rest);
+                sum, minus, multip, div, rest);
 
         sc.close();
 

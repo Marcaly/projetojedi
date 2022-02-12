@@ -1,15 +1,15 @@
 package conquista01;
 
-        /*Criar um código que declara e inicializa variáveis do tipo primitivo dentro do método main.*/
+/*Criar um código que declara e inicializa variáveis do tipo primitivo dentro do método main.*/
 
 public class Exercicio04 {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
 
         byte b = 123;
         /*byte = -128 a 127*/
         short s = 32765;
         /*short = -32768 a 32767*/
-        char  c = 64600;
+        char c = 64600;
         /*char = 0 a 65636*/
         int i = 232654;
         /*int = –2.147.483.648 a 2.147.483.647*/
