@@ -14,7 +14,7 @@ public class Exercicio2 {
 
         if (number == 100) {
             System.out.println("Verdadeiro");
-        }else if (number != 100) {
+        }else  {
             System.out.println("False");
         }
 
