@@ -6,11 +6,11 @@ public class Exercicio06 {
     public static void main(String[] args) {
 
 
-    int number1 =  7;
-    double number2 = 2913;
-    float number3 = 23.42f;
-    long number4 =  2345;
-    short number5 = 12;
+        int number1 = 7;
+        double number2 = 2913;
+        float number3 = 23.42f;
+        long number4 = 2345;
+        short number5 = 12;
 
         System.out.println(number1 == number5);
         System.out.println(number2 > number4);
