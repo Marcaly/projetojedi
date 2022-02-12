@@ -10,16 +10,17 @@ public class Exercicio6 {
         int number = 78;
         switch (number) {
             case 45:
-                System.out.println("Number 45");
+                System.out.println("Case A");
                 break;
             case 77:
-                System.out.println("Number 77");
+                System.out.println("Case B");
                 break;
             case 98:
-                System.out.println("Number 98");
+                System.out.println("Case C");
                 break;
             default:
                 System.out.println("the value is not compatible");
+
         }
     }
 }
