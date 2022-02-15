@@ -11,6 +11,6 @@ public class Exercicio01 {
         int number;
         number = 69;
         System.out.println(number);
-
+        System.out.println(number);
     }
 }
