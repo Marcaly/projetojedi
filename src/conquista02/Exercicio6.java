@@ -7,15 +7,15 @@ package conquista02;
 public class Exercicio6 {
     public static void main(String[] args) {
 
-        int number = 78;
-        switch (number) {
-            case 45:
+        char var = 'd';
+        switch (var) {
+            case 'a':
                 System.out.println("Case A");
                 break;
-            case 77:
+            case 'b':
                 System.out.println("Case B");
                 break;
-            case 98:
+            case 'c':
                 System.out.println("Case C");
                 break;
             default:
