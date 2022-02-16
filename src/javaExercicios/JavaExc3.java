@@ -14,7 +14,7 @@ public class JavaExc3 {
         System.out.println("Entre com a temperatura em celsius");
         double celsius = sc.nextDouble();
 
-        System.out.println((9 * celsius) /5 + 32);
+        System.out.println("A temperatura " + celsius + "Cº em Fahrenheit é igual à: " + (9.0 * celsius / 5 + 32));
 
         sc.close();
     }
