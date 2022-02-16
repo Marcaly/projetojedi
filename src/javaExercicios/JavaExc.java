@@ -16,10 +16,11 @@ public class JavaExc {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("Entre com o raio do circulo");
 
+        double raio = sc.nextDouble();
 
-
-
+        System.out.println("A area do circulo é: " + raio * raio * 3.14 + " metros");
 
         sc.close();
     }
