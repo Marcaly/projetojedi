@@ -12,10 +12,9 @@ public class JavaExc4 {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Entre com a temperatura em Fahrenheit");
-        double Fahren = sc.nextDouble();
+        double fahren = sc.nextDouble();
 
-        System.out.println();
-
+        System.out.println("A temperatura " + fahren + "ºF em Celsius é: " + ((fahren - 32) * 5 / 9));
 
         sc.close();
     }
