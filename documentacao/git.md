@@ -39,3 +39,7 @@ comando para desfazer tudo o que eu fiz desde o ultimo commit
     git clean -df
     git checkout -- .
 
+comando para alterar arquivos ja commitados ( nao serve para arquivos novos)
+
+    git commit -a -m "comentario"
+
