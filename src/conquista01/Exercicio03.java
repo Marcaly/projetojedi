@@ -12,9 +12,8 @@ public class Exercicio03 {
         System.out.println("enter the numbers to be summed: ");
         x = sc.nextInt();
         y = sc.nextInt();
-        sum = x + y;
 
-        System.out.println("the sum result is: " + sum);
+        System.out.println("the sum result is: " + x + y);
 
         sc.close();
     }
