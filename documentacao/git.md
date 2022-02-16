@@ -18,6 +18,10 @@ comando para criar nova branch
 
     git checkout -b nova_branch
 
+comando para upar branch local para remoto
+
+    git push origin nome_branch
+
 comando para deletar branch
 
     git branch -d nome_branch
@@ -42,4 +46,6 @@ comando para desfazer tudo o que eu fiz desde o ultimo commit
 comando para alterar arquivos ja commitados ( nao serve para arquivos novos)
 
     git commit -a -m "comentario"
+
+
 
