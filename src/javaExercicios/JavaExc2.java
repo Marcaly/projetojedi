@@ -24,8 +24,20 @@ public class JavaExc2 {
         Scanner sc = new Scanner(System.in);
 
 
+        double horasTrabalhadas, valorHora, percentualDesconto;
+        System.out.println("Digite as horas trabalhadas do funcionario:");
+        horasTrabalhadas = sc.nextDouble();
+        System.out.println("Digite o valor da hora de trabalho do funcionario:");
+        valorHora = sc.nextDouble();
+        System.out.println("Digite o percentual de desconto do salario do funcionario:");
+        percentualDesconto = sc.nextDouble();
 
+        double salarioBase = horasTrabalhadas * valorHora;
+        double totalDesconto = (percentualDesconto / 100) * salarioBase;
+        double salarioLiquido = salarioBase - totalDesconto;
 
+        System.out.println("O salario base do funcionario é igual à: R$" + horasTrabalhadas * valorHora);
+        System.out.println("O salario liquido do funcionario é igual à: R$" + (salarioBase - totalDesconto));
 
         sc.close();
     }
