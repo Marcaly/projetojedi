@@ -18,16 +18,16 @@ public class JavaExc6 {
 
         Scanner sc = new Scanner(System.in);
 
-        /*Litros de combustivel ?
-        autonomia = 12 km / Litro
-         */
-
-        System.out.println("Insira a distancia do trajeto em km: ");
-        int distancia = sc.nextInt();
 
 
+        System.out.println("Digite o tempo gasto na viagem: ");
+        double tempoGasto = sc.nextInt();
+        System.out.println("Digite a velocidade do automovel: ");
+        double velocidade = sc.nextInt();
 
-
+        double distancia = tempoGasto * velocidade;
+        double litrosUsados = distancia / 12;
+        System.out.println(litrosUsados);
         sc.close();
     }
 }
