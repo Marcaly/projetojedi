@@ -22,5 +22,7 @@ public class Exercicio01 {
         int dias = sc.nextInt();
 
         System.out.println("Você possui " + (dias + anos * 365 + meses * 30) + " Dias de vida");
+
+        sc.close();
     }
 }
