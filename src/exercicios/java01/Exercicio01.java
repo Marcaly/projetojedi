@@ -6,7 +6,7 @@ mostre-a expressa em dias. Leve em consideração o ano com 365 dias e o mês co
 
 import java.util.Scanner;
 
-public class Exc01 {
+public class Exercicio01 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
