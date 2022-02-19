@@ -1,4 +1,4 @@
-package javaExercicios;
+package javaExerciciosIniciante.javaExercicios;
 
 /*Escreva um programa que realize a conversão de graus Celsius (C)  para graus Fahrenheit (F). Utilize a fórmula abaixo:
 

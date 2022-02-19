@@ -1,4 +1,4 @@
-package javaExercicios;
+package javaExerciciosIniciante.javaExercicios;
 
 /*Baseado na fórmula abaixo escreva um programa que calcule e apresente a área de um círculo.
 

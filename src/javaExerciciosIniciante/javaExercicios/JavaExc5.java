@@ -1,4 +1,4 @@
-package javaExercicios;
+package javaExerciciosIniciante.javaExercicios;
 
 /*Escreva uma rotina capaz de calcular e apresentar o valor do volume de uma lata de óleo, utilize a fórmula abaixo
 * V = R2A

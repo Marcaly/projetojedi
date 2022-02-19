@@ -1,4 +1,4 @@
-package javaExercicios;
+package javaExerciciosIniciante.javaExercicios;
 
 /*Desenvolver um programa que apresente e calcule o volume de uma caixa retangular, utilize a fórmula abaixo:
 

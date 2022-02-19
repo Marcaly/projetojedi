@@ -1,4 +1,4 @@
-package javaExercicios;
+package javaExerciciosIniciante.javaExercicios;
 
 /*Calcular e apresentar o valor de uma prestação em atraso, utilize a fórmula abaixo:
 
