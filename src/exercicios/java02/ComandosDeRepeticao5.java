@@ -11,9 +11,9 @@ public class ComandosDeRepeticao5 {
 
         System.out.println("Insira 10 numeros inteiros para fazer a soma: ");
         int soma = 0;
-        int numeros = 0;
+
         for (int i = 0; i < 10; i++) {
-            numeros = sc.nextInt();
+            int numeros = sc.nextInt();
             soma += numeros;
         }
         System.out.println(soma);
