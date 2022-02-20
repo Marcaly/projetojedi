@@ -1,4 +1,4 @@
-package javaExerciciosIniciante.javaExercicios2;
+package javaExerciciosDevDojo.javaEstruturasDecisao;
 
 /*Desenvolva uma rotina que dados três números inteiros, apresente-os em ordem crescente
  */

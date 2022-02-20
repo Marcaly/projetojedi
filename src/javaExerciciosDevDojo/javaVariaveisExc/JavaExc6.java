@@ -1,4 +1,4 @@
-package javaExerciciosIniciante.javaExercicios;
+package javaExerciciosDevDojo.javaVariaveisExc;
 
 /*Efetuar o cálculo de quantos litros de combustível um automóvel consome em uma viagem. Sabendo que o automóvel tem uma autonomia de 12 Km por litro de combustível, desenvolva o cálculo utilizando a fórmula abaixo:
 

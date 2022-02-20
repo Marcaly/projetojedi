@@ -1,4 +1,4 @@
-package javaExerciciosIniciante.javaExercicios2;
+package javaExerciciosDevDojo.javaEstruturasDecisao;
 
 /*Desenvolva um rotina que leia as notas de quatro bimestres de um aluno (N1, N2, N3 e N4)
   e informe o status do aluno baseado na tabela abaixo:

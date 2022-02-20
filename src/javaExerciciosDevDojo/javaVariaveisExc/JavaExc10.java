@@ -1,4 +1,4 @@
-package javaExerciciosIniciante.javaExercicios;
+package javaExerciciosDevDojo.javaVariaveisExc;
 
 import java.util.Scanner;
 
