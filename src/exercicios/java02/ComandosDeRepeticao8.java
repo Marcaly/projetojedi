@@ -19,7 +19,6 @@ public class ComandosDeRepeticao8 {
         }
         System.out.println(maioresIdade);
 
-
         sc.close();
 
     }

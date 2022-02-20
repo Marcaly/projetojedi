@@ -17,7 +17,6 @@ public class ComandosDeRepeticao7 {
         }
         System.out.println(soma/20);
 
-
         sc.close();
     }
 }
