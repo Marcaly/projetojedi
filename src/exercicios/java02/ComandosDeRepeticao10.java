@@ -11,7 +11,7 @@ public class ComandosDeRepeticao10 {
 
         System.out.println("Entre com um número: ");
         int numero = sc.nextInt();
-
+        System.out.println("A tabuada do número " + numero + ":");
         for (int i = 0; i <= 10; i++) {
             System.out.println(numero + " * " + i + " = " + numero * i);
         }
