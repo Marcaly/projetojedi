@@ -9,6 +9,8 @@ public class ComandosDeRepeticao14 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+
+        System.out.println("Insira 20 números: ");
         int numeros;
         int i = 1;
 
@@ -16,7 +18,7 @@ public class ComandosDeRepeticao14 {
         int entreCemEDuz = 0;
         int maiorDuz = 0;
 
-        while (i <= 5) {
+        while (i <= 20) {
             numeros = sc.nextInt();
             i++;
             if (numeros >= 0 && numeros <= 100) {
