@@ -6,7 +6,7 @@ F = ( 9 C) 5 */
 
 import java.util.Scanner;
 
-public class JavaExc3 {
+public class JavaExc03 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

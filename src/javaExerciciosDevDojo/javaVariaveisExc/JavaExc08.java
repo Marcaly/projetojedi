@@ -8,7 +8,7 @@ Onde P é o valor da prestação em atraso.*/
 
 import java.util.Scanner;
 
-public class JavaExc8 {
+public class JavaExc08 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

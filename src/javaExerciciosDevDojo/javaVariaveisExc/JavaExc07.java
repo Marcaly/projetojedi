@@ -5,7 +5,7 @@ package javaExerciciosDevDojo.javaVariaveisExc;
 
 import java.util.Scanner;
 
-public class JavaExc7 {
+public class JavaExc07 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

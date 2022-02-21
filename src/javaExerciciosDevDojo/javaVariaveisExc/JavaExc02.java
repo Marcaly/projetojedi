@@ -18,7 +18,7 @@ SL = Salário Líquido
 
 import java.util.Scanner;
 
-public class JavaExc2 {
+public class JavaExc02 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
