@@ -9,9 +9,9 @@ public class ComandosDeRepeticao11 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Insira 20 numeros para analisar quantos são maiores do que 8");
+        System.out.println("Insira 20 numeros para analisar quantos são maiores do que 8: ");
 
-        int numero = sc.nextInt();
+        int numero;
         int numerosMaiores =0;
         for (int i = 0; i < 20; i++) {
             numero = sc.nextInt();

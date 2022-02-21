@@ -11,7 +11,7 @@ public class ComandosDeRepeticao12 {
 
         System.out.println("Insira 20 numeros para analisar quantos são pares: ");
 
-        int numero = sc.nextInt();
+        int numero;
         int numerosPares = 0;
         for (int i = 0; i < 20; i++) {
             numero = sc.nextInt();
