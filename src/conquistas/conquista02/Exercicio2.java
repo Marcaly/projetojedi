@@ -1,4 +1,4 @@
-package conquista02;
+package conquistas.conquista02;
 
 /*Criar um código que verifica se um valor de uma variável é igual a cem.
 Caso verdadeiro, escrever no console: “Verdadeiro”. Caso falso, escrever no console: “Falso”

@@ -11,9 +11,8 @@ public class Exercicio05 {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Insira o valor atual do salário minimo");
-        double salarioMinimo = sc.nextDouble();
-        System.out.println("Insira o valor do seu salário");
+        double salarioMinimo = 788.00;
+        System.out.println("Insira o valor do salário do usúario");
         double salarioUser = sc.nextDouble();
         System.out.printf("O usuário ganha: %.2f salários mínimos", salarioUser / salarioMinimo);
 

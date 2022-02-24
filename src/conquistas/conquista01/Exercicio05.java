@@ -1,4 +1,4 @@
-package conquista01;
+package conquistas.conquista01;
 
 /*Criar um código que realiza todas as funções aritméticas usando os operadores*/
 

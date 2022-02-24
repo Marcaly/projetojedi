@@ -1,4 +1,4 @@
-package conquista02;
+package conquistas.conquista02;
 
 /*Criar um código que verifica 3 vezes (IF) se o valor de uma variável é igual a um valor qualquer,
  sendo atendida na segunda condição, não executando a terceira e nem um ELSE*/

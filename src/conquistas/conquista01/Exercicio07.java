@@ -1,4 +1,4 @@
-package conquista01;
+package conquistas.conquista01;
 /*Criar um código que verifica expressões booleanas (verdadeiro ou falso)
  utilizando operadores de comparação e operadores lógicos.
  Ex: boolean ativo = true; ativo == true && ativo != false*/

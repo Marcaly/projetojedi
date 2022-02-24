@@ -1,4 +1,4 @@
-package conquista01;
+package conquistas.conquista01;
 
 /* Criar duas classes relacionadas (mesmo assunto). Ex: Carro e Moto.*/
 

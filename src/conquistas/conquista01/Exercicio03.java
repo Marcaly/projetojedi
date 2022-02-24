@@ -1,4 +1,4 @@
-package conquista01;
+package conquistas.conquista01;
 
 /*Criar um código dentro do método main que soma dois números e exibe o valor ao final do programa.*/
 

@@ -1,4 +1,4 @@
-package conquista01;
+package conquistas.conquista01;
 
 /*Criar um código que declara e inicializa variáveis primitivas
  e atribuir o seu próprio valor somado a ele mesmo utilizando operadores de atribuição direta (+=, -=, *=...)*/

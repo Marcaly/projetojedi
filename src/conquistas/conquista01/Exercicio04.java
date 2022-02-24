@@ -1,4 +1,4 @@
-package conquista01;
+package conquistas.conquista01;
 
 /*Criar um código que declara e inicializa variáveis do tipo primitivo dentro do método main.*/
 
