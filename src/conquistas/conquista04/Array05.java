@@ -21,6 +21,7 @@ public class Array05 {
         int multiplos = 0;
         int soma = 0;
 
+        System.out.println("Insira 10 números para analisar alguns dados: ");
         for (int i = 0; i < inteiros.length; i++) {
             inteiros[i] = sc.nextInt();
             soma += inteiros[i];

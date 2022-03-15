@@ -13,6 +13,8 @@ public class Array02 {
         int array1[] = new int[10];
         String array2[] = new String[10];
         int i;
+
+        System.out.println("Entre com 10 números para analisar qual o valor deles se multiplicado por 5:");
         for (i = 0; i < array1.length; i++) {
             array1[i] = sc.nextInt();
             array2[i] = "O valor multiplicado por 5 é: " + (array1[i] * 5);

@@ -14,6 +14,7 @@ public class Array04 {
         int pares = 0;
         int impares = 0;
 
+        System.out.println("Insira 10 números para analisar quantos são pares e quantos são ímpares:");
         for (int i = 0; i < inteiros.length; i++) {
             inteiros[i] = sc.nextInt();
             if (inteiros[i] % 2 == 0) {

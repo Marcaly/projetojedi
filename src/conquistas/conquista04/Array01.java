@@ -13,6 +13,8 @@ public class Array01 {
         int valores[] = new int[5];
         int valores2[] = new int[5];
         int i;
+
+        System.out.println("Insira 5 números:");
         for (i = 0; i < valores.length; i++) {
             valores[i] = sc.nextInt();
             valores2[i] = valores[i];
