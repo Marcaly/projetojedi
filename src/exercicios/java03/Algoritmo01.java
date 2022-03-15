@@ -16,6 +16,8 @@ public class Algoritmo01 {
             System.out.println("O numero é negativo");
         }else if (numero > 0){
             System.out.println("O número é positivo");
+        }else {
+            System.out.println("Número inválido");
         }
 
 
