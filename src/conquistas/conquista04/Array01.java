@@ -10,12 +10,12 @@ public class Array01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int v1[] = new int[5];
-        int v2[] = new int[5];
+        int valores[] = new int[5];
+        int valores2[] = new int[5];
         int i;
-        for (i = 0; i < v1.length; i++) {
-            v1[i] = sc.nextInt();
-            v2[i] = v1[i];
+        for (i = 0; i < valores.length; i++) {
+            valores[i] = sc.nextInt();
+            valores2[i] = valores[i];
         }
 
 
