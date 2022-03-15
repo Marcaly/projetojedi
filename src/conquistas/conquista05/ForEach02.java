@@ -12,10 +12,14 @@ public class ForEach02 {
         Scanner sc = new Scanner(System.in);
 
         int inteiros[] = new int[100];
-
-
-
-
+        int i = 1;
+        while (i < inteiros.length) {
+            inteiros[i] += i;
+            i++;
+        }
+        for (int inteiro : inteiros) {
+            System.out.println(inteiro + " * 2 = " + inteiro * 2);
+        }
 
 
         sc.close();
