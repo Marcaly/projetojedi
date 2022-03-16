@@ -14,8 +14,8 @@ public class ForEach01 {
 
         String variaveis[] = {"Casa", "Cavalo", "Produto", "Relógio", "Comida", "Buraco", "Mouse", "Trabalho", "9",
                 "10 "};
-
         String concatenar = " ";
+
         for (String variavel : variaveis) {
             concatenar += " " + variavel;
             System.out.println(concatenar);
